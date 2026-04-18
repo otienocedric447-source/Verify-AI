@@ -1,0 +1,14 @@
+Flask
+SQLAlchemy
+PyJWT
+Pillow
+TensorFlow
+scikit-learn
+pandas
+numpy
+
+# Additional ML Libraries
+# - nltk
+# - transformers
+# - requests
+# - BeautifulSoup4
